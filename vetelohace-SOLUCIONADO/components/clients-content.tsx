@@ -91,7 +91,7 @@ export function ClientsContent({ clients }: ClientsContentProps) {
         <div>
           <h1 className="text-3xl font-bold text-gray-900">Clientes</h1>
           <p className="text-gray-600 mt-1">
-            Gestiona todos los clientes y sus mascotas
+            Gestiona todos los clientes y sus mascotas!
           </p>
         </div>
         
